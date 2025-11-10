@@ -14,9 +14,17 @@ Istituto di Istruzione Superiore Mariano IV d’Arborea
 Full-time temporary teacher (one-year contract) 
 
 ## 🧰 Skills
-- Programming: Python, Matlab, C, Git  
+- Programming: Python, Matlab, C, Git
+- Tech Skills 
+o Linguages : Python, C, R 
+o Software : MATLAB, LaTeX 
+o Interest Fields : Machine Learning, FEM, Numerical modeling 
 
-## 🧩 Interest  
+## 🧩 Hobbies  
+Football referee (since 2015), develop skills in conflict 
+management and rapid decision-making 
+o Active member of the Scout Movement (since 2011), with 
+experience in leadership and teamwork. 
 
 ## 📫 How to reach me: 
 - 📧 Email: matturiccardom@gmail.com
