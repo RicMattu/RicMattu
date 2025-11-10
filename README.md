@@ -1,28 +1,32 @@
-## Hi there 👋
 # 👋 Hi, I'm Riccardo Mattu
 
 ## 🎓 Education
-- MSc in Computer Science, University of XYZ (2023)
+- 2025: MSc in Mathematics, University of Milan
+  Curriculum: Applied / Industrial
+  Final Grade : 108/110
+  Thesis : *Transformer-Based Deep Learning Models for Weed Detection in Real-World Agricultural Images*
+- 2022: BSc in Mathematics, University of Cagliari
+  Final Grade: 110 cum laude
 
 ## 💼 Experience
-- **Software Developer**, ABC Company (2022–present)
-  - Developed Python tools for data analysis
-  - Collaborated with a team using GitHub & Agile
+- **Teacher of Math and Physics** (Sept. 2024 – Jun. 2025) 
+Istituto di Istruzione Superiore Mariano IV d’Arborea 
+Full-time temporary teacher (one-year contract) 
 
 ## 🧰 Skills
-- Programming: Python, R, Markdown, Git
-- Tools: VS Code, GitHub Desktop, RStudio
+- Programming: Python, Matlab, C, Git
+- Tools: 
 
-## 📫 Contact
-📧 riccardo.mattu@example.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/riccardomattu/)  
-💻 [Portfolio](https://ricmattu.github.io)
+## 🧩 Interest
+
+## 📫 How to reach me: 
+- 📧 Email: matturiccardom@gmail.com
+- 🌐 [Linkedin](https://www.linkedin.com/in/riccardomattu/)  
+- 💻 [GitHub](https://RicMattu.GitHub.io)
+
+
 
 <!--
-**RicMattu/RicMattu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
