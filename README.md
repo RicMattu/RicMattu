@@ -5,7 +5,7 @@
   Curriculum: Applied / Industrial  
   Final Grade : 108/110  
   Thesis : *Transformer-Based Deep Learning Models for Weed Detection in Real-World Agricultural Images*
-- 2022: BSc in Mathematics, University of Cagliari
+- 2022: BSc in Mathematics, University of Cagliari  
   Final Grade: 110 cum laude
 
 ## 💼 Experience
@@ -14,9 +14,9 @@ Istituto di Istruzione Superiore Mariano IV d’Arborea
 Full-time temporary teacher (one-year contract) 
 
 ## 🧰 Skills
-- Programming: Python, Matlab, C, Git
+- Programming: Python, Matlab, C, Git  
 
-## 🧩 Interest
+## 🧩 Interest  
 
 ## 📫 How to reach me: 
 - 📧 Email: matturiccardom@gmail.com
