@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Riccardo Mattu
 
 ## 🎓 Education
-- 2025: MSc in Mathematics, University of Milan
-  Curriculum: Applied / Industrial
-  Final Grade : 108/110
+- 2025: MSc in Mathematics, University of Milan  
+  Curriculum: Applied / Industrial  
+  Final Grade : 108/110  
   Thesis : *Transformer-Based Deep Learning Models for Weed Detection in Real-World Agricultural Images*
 - 2022: BSc in Mathematics, University of Cagliari
   Final Grade: 110 cum laude
