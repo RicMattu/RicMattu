@@ -15,7 +15,6 @@ Full-time temporary teacher (one-year contract)
 
 ## 🧰 Skills
 - Programming: Python, Matlab, C, Git
-- Tools: 
 
 ## 🧩 Interest
 
