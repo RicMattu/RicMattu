@@ -21,8 +21,7 @@ Full-time temporary teacher (one-year contract)
 ## 📫 How to reach me: 
 - 📧 Email: matturiccardom@gmail.com
 - 🌐 [Linkedin](https://www.linkedin.com/in/riccardomattu/)  
-- 💻 [GitHub](https://RicMattu.GitHub.io)
-
+- 💻 [GitHub](https://github.com/RicMattu/)
 
 
 <!--
