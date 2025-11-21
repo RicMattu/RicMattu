@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Riccardo Mattu
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicMattu)](https://github.com/RicMattu/github-readme-stats)
-
+-->
 ## 🎓 Education
 - 2025: MSc in Mathematics, University of Milan  
   Curriculum: Applied / Industrial  
@@ -29,7 +29,7 @@ o Active member of the Scout Movement (since 2011), with
 experience in leadership and teamwork. 
 
 ## 📫 How to reach me: 
-- 📧 Email: matturiccardom@gmail.com
+- 📧 [Email](matturiccardom@gmail.com)
 - 🌐 [Linkedin](https://www.linkedin.com/in/riccardomattu/)  
 - 💻 [GitHub](https://github.com/RicMattu/)
 
