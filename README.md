@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Riccardo Mattu
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RicMattu)](https://github.com/RicMattu/github-readme-stats)
+
 ## 🎓 Education
 - 2025: MSc in Mathematics, University of Milan  
   Curriculum: Applied / Industrial  
